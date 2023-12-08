@@ -1,4 +1,4 @@
-# e-commerce-web-scraper
+# Py-AWS-ProductsImage-Scraper
 
 **File** : *_amazon_search_image_scraper.py_*<br>
 **Description** : Get images of available products on amazon for a particular search query <br>
